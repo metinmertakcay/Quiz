@@ -1,0 +1,95 @@
+{
+  "questionDetail" : 
+  [
+    {
+      "id": "1",
+      "soru": "“Diyar diyar gezdim” cümlesinde geçen “diyar” ne anlama gelir?",
+      "a": "Şehir",
+      "b": "Ülke",
+      "c": "Köy",
+      "d": "Kasaba",
+	  "cevap": "B"
+    },
+    {
+      "id": "2",
+      "soru": "Şehir girişlerinde yer alan şehir tabelalarında hangisi bulunmaz?",
+      "a": "Yüz ölçümü",
+      "b": "Şehir adı",
+      "c": "Nüfus",
+      "d": "Rakım",
+	  "cevap": "A"
+    },
+    {
+      "id": "3",
+      "soru": "Telefon alan kodu iki tane olan şehir hangisidir?",
+      "a": "Zonguldak",
+      "b": "Aydın",
+      "c": "Malatya",
+      "d": "İstanbul",
+	  "cevap": "D"
+    },
+    {
+      "id": "4",
+      "soru": "Dünyada, gece aydınlatılan ilk cadde nerededir?",
+      "a": "İstanbul",
+      "b": "Roma",
+      "c": "Kudüs",
+      "d": "Antakya",
+	  "cevap": "D"
+    },
+    {
+      "id": "5",
+      "soru": "Hangi şehre kar yağmadan, Türkiye’ye kış gelmez diyerek sitemde bulunulur?",
+      "a": "İstanbul",
+      "b": "Antalya",
+      "c": "Ankara",
+      "d": "Edirne",
+	  "cevap": "A"
+    },
+    {
+      "id": "6",
+      "soru": "“Aynı hedefe giden birçok yol vardır” anlamına gelen ve Türkçe dahil birçok dilde kullanılan söze göre, bütün yollar hangi şehre çıkar?",
+      "a": "İstanbul",
+      "b": "Paris",
+      "c": "Bağdat",
+      "d": "Roma",
+	  "cevap": "D"
+    },
+    {
+      "id": "7",
+      "soru": "Hangi şehirden olduğunu söyleyen kişilere “Aslen nerelisin?” sorusu sorulur?",
+      "a": "Bursa",
+      "b": "Zonguldak",
+      "c": "Denizli",
+      "d": "İstanbul",
+	  "cevap": "D"
+    },
+    {
+      "id": "8",
+      "soru": "16 yüzyıl boyunca başkent kalan şehir hangisidir?",
+      "a": "Atina",
+      "b": "Kudüs",
+      "c": "Kahire",
+      "d": "İstanbul",
+	  "cevap": "D"
+    },
+    {
+      "id": "9",
+      "soru": "İstanbul’dan Ankara’ya giden bir tren hangi şehre uğramaz?",
+      "a": "Eskişehir",
+      "b": "Kocaeli",
+      "c": "Bilecik",
+      "d": "Konya",
+	  "cevap": "D"
+    },
+    {
+      "id": "10",
+      "soru": "İstanbul’dan Ankara’ya giderken hangi dağdaki tünelden geçilir?",
+      "a": "Bolu Dağı",
+      "b": "Hasan Dağı",
+      "c": "Ilgaz Dağı",
+      "d": "Kaz Dağı",
+	  "cevap": "A"
+    }
+  ]
+}

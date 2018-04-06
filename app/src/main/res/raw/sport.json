@@ -1,0 +1,95 @@
+{
+  "questionDetail" :
+  [
+    {
+      "id": "1",
+      "soru": "“Kafkafkaf sinsinsin kafsin kafsin kaf” hangi futbol takımının tezahüratıdır?",
+      "a": "Karşıyakaspor",
+      "b": "Kasımpaşaspor",
+      "c": "Altayspor",
+      "d": "Eskişehirspor",
+	  "cevap": "A"
+    },
+    {
+      "id": "2",
+      "soru": "Dağcılık, yamaç paraşütü, snowboard gibi diğer sporlara göre daha tehlikeli olan, heyecanı yüksek sporlar hangi isimle anılır?",
+      "a": "Marjinal sporlar",
+      "b": "Ekstrem sporlar",
+      "c": "Hızlı sporlar",
+      "d": "Riskli sporlar",
+	  "cevap": "B"
+    },
+    {
+      "id": "3",
+      "soru": "“Off-road”, “Pit-stop” terimleri hangi alanda yapılan sporla ilgilidir?",
+      "a": "Motor sporları",
+      "b": "Su altı sporları",
+      "c": "Kayak sporları",
+      "d": "Yelken sporları",
+	  "cevap": "A"
+    },
+    {
+      "id": "4",
+      "soru": "“Güreş sporu” hangi sözle ifade edilir?",
+      "a": "Kültür varlığı",
+      "b": "Ata sporu",
+      "c": "Aile yadigarı",
+      "d": "Dünya mirası",
+	  "cevap": "B"
+    },
+    {
+      "id": "5",
+      "soru": "Basketbol topu ne renktir?",
+      "a": "Turuncu",
+      "b": "Kırmızı",
+      "c": "Yeşil",
+      "d": "Mavi",
+	  "cevap": "A"
+    },
+    {
+      "id": "6",
+      "soru": "Hangisi hem futbol hem de basketbolla ilgili bir terimdir?",
+      "a": "Faul",
+      "b": "Gol",
+      "c": "Steps",
+      "d": "Ofsayt",
+	  "cevap": "A"
+    },
+    {
+      "id": "7",
+      "soru": "“Kelebek stili” hangi spor dalıyla ilgilidir?",
+      "a": "Eskrim",
+      "b": "Golf",
+      "c": "Tenis",
+      "d": "Yüzme",
+	  "cevap": "D"
+    },
+    {
+      "id": "8",
+      "soru": "Daha çok hangi sporu yapanlar, tepesi açık, yalnızca güneşliği olan şapkalar takarlar?",
+      "a": "Boks",
+      "b": "Tenis",
+      "c": "Yüzme",
+      "d": "Kayak",
+	  "cevap": "B"
+    },
+    {
+      "id": "9",
+      "soru": "“Serbest stil”, “kuzey kombine”, “slalom” hangi sporla ilgili terimlerdir?",
+      "a": "Eskrim",
+      "b": "Boks",
+      "c": "Kayak",
+      "d": "Yüzme",
+	  "cevap": "C"
+    },
+    {
+      "id": "10",
+      "soru": "“Davis Kupası” ve “Avustralya Açık” hangi alanda yapılan organizasyonlardır?",
+      "a": "Tenis",
+      "b": "Yüzme",
+      "c": "Bisiklet",
+      "d": "Yelken",
+	  "cevap": "A"
+    }
+  ]
+}

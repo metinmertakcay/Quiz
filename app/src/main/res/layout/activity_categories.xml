@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/category"
+        android:layout_marginTop="30dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="@string/Categories"
+        android:textStyle="bold"
+        android:textSize="25sp"
+        android:textColor="@color/red"
+        android:layout_marginBottom="10dp"/>
+
+    <LinearLayout
+        android:id="@+id/categoryList"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_below="@+id/category"
+        android:layout_marginTop="15dp">
+
+        <Button
+            android:id="@+id/animal"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_weight="0.5"
+            android:background="@color/category1"
+            android:text="@string/Animal"
+            android:textStyle="bold" />
+
+        <Button
+            android:id="@+id/city"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/City"
+            android:background="@color/category2"
+            android:textStyle="bold"
+            android:layout_weight="0.5"
+            android:layout_gravity="center"
+            android:layout_marginTop="15dp"/>
+
+        <Button
+            android:id="@+id/sports"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/Sport"
+            android:background="@color/yellow"
+            android:textStyle="bold"
+            android:layout_weight="0.5"
+            android:layout_gravity="center"
+            android:layout_marginTop="15dp"/>
+
+        <Button
+            android:id="@+id/history"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/History"
+            android:background="@color/category1"
+            android:textStyle="bold"
+            android:layout_weight="0.5"
+            android:layout_gravity="center"
+            android:layout_marginTop="15dp"/>
+
+        <Button
+            android:id="@+id/general"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/General"
+            android:background="@color/category2"
+            android:textStyle="bold"
+            android:layout_weight="0.5"
+            android:layout_gravity="center"
+            android:layout_marginTop="15dp"/>
+    </LinearLayout>
+
+</RelativeLayout>

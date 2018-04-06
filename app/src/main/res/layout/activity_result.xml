@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/row_padding_vertical"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/row_padding_vertical">
+
+    <TextView
+        android:id="@+id/login"
+        android:layout_marginTop="30dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="@string/Result"
+        android:textStyle="bold"
+        android:textSize="25sp"
+        android:textColor="@color/red"/>
+
+    <TextView
+        android:id="@+id/right_answer"
+        android:layout_marginTop="30dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/login"
+        android:gravity="center"
+        android:text="@string/RightAnswer"
+        android:textStyle="bold"
+        android:textSize="15sp"
+        android:textColor="@android:color/holo_green_light"/>
+
+    <TextView
+        android:id="@+id/empty_answer"
+        android:layout_marginTop="30dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/right_answer"
+        android:gravity="center"
+        android:text="@string/EmptyAnswer"
+        android:textStyle="bold"
+        android:textSize="15sp"
+        android:textColor="@color/darkWhite"/>
+
+    <TextView
+        android:id="@+id/wrong_answer"
+        android:layout_marginTop="30dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/empty_answer"
+        android:gravity="center"
+        android:text="@string/WrongAnswer"
+        android:textStyle="bold"
+        android:textSize="15sp"
+        android:textColor="@android:color/holo_red_dark"/>
+
+    <TextView
+        android:id="@+id/successful_rate"
+        android:layout_marginTop="30dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/wrong_answer"
+        android:gravity="center"
+        android:text="@string/SuccessfulRate"
+        android:textStyle="bold"
+        android:textSize="15sp"
+        android:textColor="@android:color/holo_blue_dark"/>
+
+    <Button
+        android:id="@+id/back"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/successful_rate"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="37dp"
+        android:text="@string/Back"
+        android:background="@color/turkuaz"
+        android:textStyle="bold"/>
+
+    <TextView
+        android:id="@+id/right"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignEnd="@+id/back"
+        android:layout_alignTop="@+id/right_answer"/>
+
+    <TextView
+        android:id="@+id/empty"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignEnd="@+id/right"
+        android:layout_alignTop="@+id/empty_answer"/>
+
+    <TextView
+        android:id="@+id/wrong"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/successful_rate"
+        android:layout_alignStart="@+id/empty"/>
+
+    <TextView
+        android:id="@+id/success"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/successful_rate"
+        android:layout_alignEnd="@+id/back"/>
+
+</RelativeLayout>

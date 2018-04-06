@@ -1,0 +1,95 @@
+{
+  "questionDetail" :
+  [
+    {
+      "id": "1",
+      "soru": "Tarih derslerinde, “Almanlar yenilince biz de yenilmiş sayıldık” cümlesi hangi savaş için kullanılır?",
+      "a": "I. Dünya Savaşı",
+      "b": "Kore Savaşı",
+      "c": "Kurtuluş Savaşı",
+      "d": "Balkan Savaşı",
+	  "cevap": "A"
+    },
+    {
+      "id": "2",
+      "soru": "“1919 yılı Mayısının 19. günü Samsun’a çıktım” hangisinin ilk cümlesidir?",
+      "a": "Tek Adam",
+      "b": "Nutuk",
+      "c": "Kurtuluş Savaşı Destanı",
+      "d": "Gençliğe Hitabe",
+	  "cevap": "B"
+    },
+    {
+      "id": "3",
+      "soru": "Tolstoy’un yaklaşık 500 karaktere yer verdiği ünlü romanı hangisidir?",
+      "a": "Savaş ve Barış",
+      "b": "Suç ve Ceza",
+      "c": "Anna Karenina",
+      "d": "Doktor Jivago",
+	  "cevap": "A"
+    },
+    {
+      "id": "4",
+      "soru": "Kemal Tahir’in, Osmanlı Devleti’nin kuruluşunu 13. yüzyılın sosyal kültürel ve siyasi çerçevesi içerisinde anlattığı romanı hangisidir?",
+      "a": "Yorgun Savaşçı",
+      "b": "Esir Şehrin İnsanları",
+      "c": "Yol Ayrımı",
+      "d": "Devlet Ana",
+	  "cevap": "D"
+    },
+    {
+      "id": "5",
+      "soru": "Hiroşima’ya atılan atom bombasının adı nedir?",
+      "a": "Kader fırtınası",
+      "b": "Yaz yağmuru",
+      "c": "Sarı pazartesi",
+      "d": "Küçük çocuk",
+	  "cevap": "D"
+    },
+    {
+      "id": "6",
+      "soru": "“Coğrafya kaderdir” sözü kime aittir?",
+      "a": "İbn-i Battuta",
+      "b": "İbn-i Haldun",
+      "c": "Kofi Annan",
+      "d": "Rauf Denktaş",
+	  "cevap": "B"
+    },
+    {
+      "id": "7",
+      "soru": "Kurtuluş Savaşı'ndaki başarılarından dolayı kaç ilin adının önüne unvan verilmiştir?",
+      "a": "2",
+      "b": "3",
+      "c": "4",
+      "d": "5",
+	  "cevap": "B"
+    },
+    {
+      "id": "8",
+      "soru": "Hangi ABD kenti adını, Roma’yı istiladan kurtarması için görevlendirilen savaşı kazanıp Roma’yı kurtaran kahraman bir devlet adamından alır?",
+      "a": "Cincinnati",
+      "b": "Sacramento",
+      "c": "Michigan",
+      "d": "Chicago",
+	  "cevap": "A"
+    },
+    {
+      "id": "9",
+      "soru": "II. Dünya Savaşı'nda gemisi batırılan ve mahsur kaldıkları adadan kurtulmak için birliğine hindistan cevizi kabuğuna kazınmış mesaj gönderen kişi kimdir?",
+      "a": "Mao Zedong",
+      "b": "Charles de Gaulle",
+      "c": "John F. Kennedy",
+      "d": "Winston Churchill",
+	  "cevap": "C"
+    },
+    {
+      "id": "10",
+      "soru": "“Sen nerede olursan Gaius, ben de Gaia, orada olacağım” cümlesi Roma İmparatorluğu’nda, hangisi için edilen bir yemindir?",
+      "a": "Savaş yemini",
+      "b": "Evlilik yemini",
+      "c": "Cenaze töreni yemini",
+      "d": "İmparatora bağlılık yemini",
+	  "cevap": "B"
+    }
+  ]
+}

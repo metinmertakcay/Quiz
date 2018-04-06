@@ -1,0 +1,95 @@
+﻿{
+  "questionDetail" : 
+  [
+    {
+      "id": "1",
+      "soru": "Tavuk, kaz, ördek, hindi ne tür hayvanlardır?",
+      "a": "Kümes hayvanı",
+      "b": "Av hayvanı",
+      "c": "Kürk hayvanı",
+      "d": "Yük hayvanı",
+	  "cevap": "A"
+    },
+    {
+      "id": "2",
+      "soru": "İnsanlarla yaşamaya alışmış, kedi, köpek, kuş, balık gibi hayvanlara ne ad verilir?",
+      "a": "Kümes hayvanları",
+      "b": "Evcimen hayvanlar",
+      "c": "Evcil hayvanlar",
+      "d": "Efendi hayvanlar",
+	  "cevap": "C"
+    },
+    {
+      "id": "3",
+      "soru": "Sığır, manda, at, eşek gibi hayvanlara ne ad verilir?",
+      "a": "Av hayvanları",
+      "b": "Büyükbaş hayvanlar",
+      "c": "Küçükbaş hayvanlar",
+      "d": "Besi hayvanları",
+	  "cevap": "B"
+    },
+    {
+      "id": "4",
+      "soru": "“The Muppet Show” dizisinin baş karakteri olan “Kermit” hangi hayvandır?",
+      "a": "Köpek",
+      "b": "Kurbağa",
+      "c": "Domuz",
+      "d": "Ayı",
+	  "cevap": "B"
+    },
+    {
+      "id": "5",
+      "soru": "1943'ten bu yana savaşlarda ve felaketlerde kahramanlık göstermiş hayvanlara verilen madalyanın adı nedir?",
+      "a": "Dickin Madalyası",
+      "b": "Fields Madalyası",
+      "c": "Darwin Madalyası",
+      "d": "Albert Madalyası",
+	  "cevap": "A"
+    },
+    {
+      "id": "6",
+      "soru": "“Çemkirmek” hangi hayvanın çıkardığı bir sesi ifade eder?",
+      "a": "Karga",
+      "b": "At",
+      "c": "Köpek",
+      "d": "Hindi",
+	  "cevap": "C"
+    },
+    {
+      "id": "7",
+      "soru": "Hangisi hem bir balık hem de bir kedi türüdür?",
+      "a": "Karagöz",
+      "b": "Mezgit",
+      "c": "Sazan",
+      "d": "Tekir",
+	  "cevap": "D"
+    },
+    {
+      "id": "8",
+      "soru": "“Hınzır” hangi hayvandır?",
+      "a": "Domuz",
+      "b": "Karga",
+      "c": "Maymun",
+      "d": "Sırtlan",
+	  "cevap": "C"
+    },
+    {
+      "id": "9",
+      "soru": "Kedi ve köpeklerin ön ayakları için söylenen söz nedir?",
+      "a": "Pençe",
+      "b": "Yüzgeç",
+      "c": "Pati",
+      "d": "Toynak",
+	  "cevap": "C"
+    },
+    {
+      "id": "10",
+      "soru": "Hangi hayvanın, kocayınca, köpeklerin maskarası olduğu söylenir?",
+      "a": "Tilki",
+      "b": "Kurt",
+      "c": "Kaplan",
+      "d": "Aslan",
+	  "cevap": "B"
+    }
+  ]
+}

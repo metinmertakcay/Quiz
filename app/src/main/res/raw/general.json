@@ -1,0 +1,95 @@
+{
+  "questionDetail" :
+  [
+    {
+      "id": "1",
+      "soru": "Siyasi parti başkanları için kullanılan tanımlama hangisidir?",
+      "a": "Özel kalem",
+      "b": "Genel sekreter",
+      "c": "Genel başkan",
+      "d": "İl başkanı",
+	  "cevap": "C"
+    },
+    {
+      "id": "2",
+      "soru": "Geleneksel çay bardağı nasıl tarif edilir?",
+      "a": "Uzun ayaklı",
+      "b": "Kalın kulplu",
+      "c": "Geniş ağızlı",
+      "d": "İnce belli",
+	  "cevap": "D"
+    },
+    {
+      "id": "3",
+      "soru": "“Yıpranmış, eski, bakımsız” anlamında kullanılan söz hangisidir?",
+      "a": "Külüstür",
+      "b": "Klasik",
+      "c": "Kalantor",
+      "d": "Kalender",
+	  "cevap": "A"
+    },
+    {
+      "id": "4",
+      "soru": "Türkiye’de Nisan 1993'te internet ilk olarak nerede kullanılmaya başlanmıştır?",
+      "a": "ODTÜ",
+      "b": "TÜBİTAK",
+      "c": "Genelkurmay Başkanlığı",
+      "d": "MİT",
+	  "cevap": "A"
+    },
+    {
+      "id": "5",
+      "soru": "Ahmet Necdet Sezer, cumhurbaşkanı seçilmeden önce hangi kurumun başkanıydı?",
+      "a": "Danıştay",
+      "b": "Anayasa Mahkemesi",
+      "c": "Genelkurmay",
+      "d": "Yargıtay",
+	  "cevap": "B"
+    },
+    {
+      "id": "6",
+      "soru": "TBMM adına, Türk Silahlı Kuvvetleri’nin başkomutanı kimdir?",
+      "a": "Cumhurbaşkanı",
+      "b": "Başbakan",
+      "c": "Savunma Bakanı",
+      "d": "Genelkurmay Başkanı",
+	  "cevap": "A"
+    },
+    {
+      "id": "7",
+      "soru": "Türkiye’de kullanılan fonetik alfabeye göre B ve J harfleri genellikle hangi kelimelerle kodlanır?",
+      "a": "Bitlis-Japonya",
+      "b": "Bolu-Jilet",
+      "c": "Bursa-Jale",
+      "d": "Balıkesir-Jandarma",
+	  "cevap": "C"
+    },
+    {
+      "id": "8",
+      "soru": "Kurşun kalemler kolay tutulabilmeleri için genellikle kaç yüzlü olarak üretilirler?",
+      "a": "3",
+      "b": "4",
+      "c": "5",
+      "d": "6",
+	  "cevap": "D"
+    },
+    {
+      "id": "9",
+      "soru": "Eskiden mahalle maçlarında kale direkleri yerine genellikle hangisi kullanılırdı?",
+      "a": "Çöp tenekesi",
+      "b": "Araba tekerleği",
+      "c": "Taş",
+      "d": "Balon",
+	  "cevap": "C"
+    },
+    {
+      "id": "10",
+      "soru": "'Üstü kalsın’ sözü genellikle hangi ödeme yönteminde kullanılır?",
+      "a": "Havale",
+      "b": "Kredi kartı",
+      "c": "Nakit",
+      "d": "Çek",
+	  "cevap": "C"
+    }
+  ]
+}
